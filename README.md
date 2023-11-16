@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ShannonDu
-- 👀 I’m interested in all technical staffs
-- 🌱 I’m currently learning rust
 - 📫 How to reach me: xiangldu@amd.com
 
 <!---
